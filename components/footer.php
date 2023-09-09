@@ -17,8 +17,8 @@
                 class="footerNavLinks w-full justify-self-center md:justify-self-start border-t md:border-none py-3 md:py-0">
                 <h5 class="text-lg font-bold">প্রয়োজনীয় লিংক</h5>
                 <ul class="text-center md:text-start grid gap-2 mt-2">
-                    <li><a href="./mujibOlympiad23.html" class="importantLink">মুজিব অলিম্পিয়াড ২০২৩</a></li>
-                    <li><a href="./about.html" class="importantLink">নিণীষ সম্পর্কে</a></li>
+                    <li><a href="./mujibOlympiad23.php" class="importantLink">মুজিব অলিম্পিয়াড ২০২৩</a></li>
+                    <li><a href="./about.php" class="importantLink">নিণীষ সম্পর্কে</a></li>
                     <li>
                         <a href="https://account.ninish.com" class="importantLink">একাউন্ট এ প্রবেশ করুন</a>
                     </li>

@@ -84,7 +84,7 @@
                 <div class="flex flex-col justify-center">
                     <h1 class="text-2xl font-semibold text-center sm:text-start">মুজিব অলিম্পিয়াড ২০২৩ সম্পর্কে
                         বিস্তারিত জানতে </h1>
-                    <a href="./mujibOlympiad23.html"
+                    <a href="./mujibOlympiad23.php"
                         class="rounded-md bg-gradient-to-tr mx-auto sm:mx-0 from-violet-700 to-indigo-800 px-4 py-2 text-white text-lg cursor-pointer mt-2 max-w-fit">
                         এখানে ক্লিক করুন
                     </a>
@@ -183,7 +183,7 @@
                 <!-- About us -->
                 <div class="max-w-fit mx-auto mt-12">
                     <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg text-white  block hover:bg-green-700"
-                        href="./about.html">
+                        href="./about.php">
                         বিস্তারিত জানুন
                     </a>
                 </div>

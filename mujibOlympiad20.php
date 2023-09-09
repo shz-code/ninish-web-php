@@ -82,7 +82,7 @@
                 </div>
                 <div class="max-w-fit mx-auto text-base">
                     <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg text-white  block hover:bg-green-700"
-                        href="./mujibOlympiad23.html">
+                        href="./mujibOlympiad23.php">
                         মুজিব অলিম্পিয়াড ২০২৩ ঘুরে দেখুন
                     </a>
                 </div>

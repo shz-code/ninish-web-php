@@ -136,20 +136,20 @@
                 <div class="flex justify-center  align-middle">
                     <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-10">
                         <div class="bg-green-900 circ text-white p-5  rounded-full">
-                            <a href="./mujibOlympiad20.html"> মুজিব অলিম্পিয়াড ২০২০</a>
+                            <a href="./mujibOlympiad20.php"> মুজিব অলিম্পিয়াড ২০২০</a>
                         </div>
                         <div class="bg-green-900 circ text-white p-5 rounded-full">
-                            <a href="./mujibOlympiad20.html">মুজিবর্ষ বিতর্ক প্রতিযোগিতা</a>
+                            <a href="./mujibOlympiad20.php">মুজিবর্ষ বিতর্ক প্রতিযোগিতা</a>
                         </div>
                         <div class="bg-green-900 circ  text-white p-5 rounded-full">
-                            <a href="./wilderness20.html">Wilderness Open 2020</a>
+                            <a href="./wilderness20.php">Wilderness Open 2020</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="max-w-fit mx-auto mt-12">
                 <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                    href="./events.html">
+                    href="./events.php">
                     বিস্তারিত জানুন
                 </a>
             </div>

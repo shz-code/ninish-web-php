@@ -113,7 +113,7 @@
                     </div>
                     <div class="max-w-fit mx-auto mt-12">
                         <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg lg:px-6 lg:py-4 text-white lg:text-2xl block hover:bg-green-700"
-                            href="./mujibOlympiad23.html">
+                            href="./mujibOlympiad23.php">
                             বিস্তারিত জানুন
                         </a>
                     </div>
@@ -159,7 +159,7 @@
                             </div>
                             <div class="eventCTA">
                                 <a class="rounded-md text-center bg-green-600 px-4 py-2 text-white block hover:bg-green-700"
-                                    href="./mujibOlympiad20.html">
+                                    href="./mujibOlympiad20.php">
                                     বিস্তারিত দেখুন
                                 </a>
                             </div>
@@ -167,7 +167,7 @@
                         <p class="px-4 text-justify border-t py-2">
                             খুলনা সিটি কর্পরেশনের মাননীয় মেয়র এবং খুলনা জেলা প্রসাশনের মাননীয় জেলা প্রসাশক মহোদয় স্বয়ং
                             উপস্থিত থেকে পুরুষ্কার তুলে দেন বিজয়ীদের মাঝে......
-                            <a href="./mujibOlympiad20.html" class="underline text-violet-700">আরো পড়ুন</a>
+                            <a href="./mujibOlympiad20.php" class="underline text-violet-700">আরো পড়ুন</a>
                         </p>
                     </div>
                 </div>
@@ -196,7 +196,7 @@
                             </div>
                             <div class="eventCTA">
                                 <a class="rounded-md text-center bg-green-600 px-4 py-2 text-white block hover:bg-green-700"
-                                    href="./wilderness20.html">
+                                    href="./wilderness20.php">
                                     বিস্তারিত দেখুন
                                 </a>
                             </div>
@@ -204,7 +204,7 @@
                         <p class="px-4 text-justify border-t py-2">
                             প্রতিযোগিতায় বিচারক হিসেবে দ্বায়িত্ব পালন করে দক্ষিন এশিয়ার নামকরা সব বিশ্ববিদ্যালয়ের
                             খ্যাতনামা সব বিতার্কিক । তাদের নির্ভুল এবং বিচক্ষন বিচারের......
-                            <a href="./wilderness20.html" class="underline text-violet-700">আরো পড়ুন</a>
+                            <a href="./wilderness20.php" class="underline text-violet-700">আরো পড়ুন</a>
                         </p>
                     </div>
                 </div>
