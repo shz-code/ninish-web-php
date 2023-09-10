@@ -43,7 +43,7 @@
                 <!-- Registration Today CTA -->
                 <div class="flex justify-center mt-8">
                     <a href="https://account.ninish.com"
-                        class="rounded-md bg-gradient-to-tr  from-violet-700 to-indigo-800 px-4 py-4 text-white text-4xl cursor-pointer">
+                        class="rounded-md bg-gradient-to-tr text-center from-violet-700 to-indigo-800 px-4 py-4 text-white text-4xl cursor-pointer">
                         রেজিস্ট্রেশন সম্পন্ন করুন
                     </a>
                 </div>
