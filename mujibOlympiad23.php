@@ -371,11 +371,10 @@
                 <h1 class="text-4xl sm:text-5xl font-semibold mt-2">অনলাইন পরীক্ষা এর তথ্য ও বিষয়সমূহ</h1>
             </div>
             <!-- Section Title End -->
-            <!-- MCQ Details -->
-            <div class="pt-8 pb-4">
+           <!-- MCQ Details -->
+           <div class="pt-8 pb-4">
                 <div class="grid grid-cols-1 gap-4">
-                    <div
-                        class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-sky-700 to-indigo-800">
+                    <div class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-sky-700 to-indigo-800">
                         <h3 class="text-3xl mb-4 font-semibold flex justify-between">নিয়মাবলী <span class="text-3xl"><i
                                     class='bx bx-book-open'></i></span></h3>
                         <div class="border-t">
@@ -388,13 +387,13 @@
                                                 <thead class="font-medium dark:border-neutral-500">
                                                     <tr>
                                                         <th scope="col" class="pr-4 text-start">ক্যাটাগরি</th>
-                                                        <th scope="col" class="px-6 whitespace-nowrap "> প্রশ্নের ধরণ
+                                                        <th scope="col" class="px-6 whitespace-nowrap text-start"> প্রশ্নের ধরণ
                                                         </th>
-                                                        <th scope="col" class="py-4 whitespace-nowrap text-center">
+                                                        <th scope="col" class="py-4 whitespace-nowrap ">
                                                             প্রশ্নের সংখ্যা</th>
-                                                        <th scope="col" class="py-4 whitespace-nowrap text-center">
+                                                        <th scope="col" class="py-4 whitespace-nowrap ">
                                                             প্রশ্নের টপিক</th>
-                                                        <th scope="col" class="ps-4 text-center"> সময়</th>
+                                                        <th scope="col" class="p-4"> সময়</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -466,7 +465,7 @@
                             <p class="pt-4 mt-4 border-t">পরীক্ষায় অংশ গ্রহনের জন্য আজই রেজিস্ট্রেশন করুন</p>
                             <div class="max-w-fit mt-4">
                                 <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                                    href="https://account.ninish.com">
+                                href="https://account.ninish.com">
                                     রেজিস্ট্রেশন করুন
                                 </a>
                             </div>
