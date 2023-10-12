@@ -13,6 +13,10 @@
 
     <!-- Main Body Start -->
     <main class="pt-10">
+        <!-- Announcement -->
+        <section class="bg-red-600 containerNinish mx-auto p-4 mt-10 rounded-md mb-4 text-center">
+            <p class="text-white text-xl">অনিবার্য কারণবশত মুজিব অলিম্পিয়াড ২০২৩ - ঢাকা জেলা পর্বের ১৩ই অক্টোবর এর অনলাইন কুইজ পরীক্ষা আগামী ১লা ডিসেম্বর শুক্রবার এবং অন্যান্য জেলা পর্বের কুইজ আগামী ৮ই ডিসেম্বর (সকাল ৮.০০ থেকে দুপুর ১.০০ টার ভিতর যেকোন সময় দেওয়া যাবে) অনুষ্ঠিত হবে।</p>
+        </section>
         <!-- Banner Section Start -->
         <section class="py-16  text-white bg-gradient-to-tr from-slate-950 to-violet-900">
 
@@ -34,11 +38,11 @@
                 </div>
                 <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
                     <p class="text-slate-400">ঢাকা জেলা পর্বের কুইজ</p>
-                    <p class="font-semibold">১৩ অক্টোবর (সকাল ৯ টা - দুপুর ১ টা)</p>
+                    <p class="font-semibold">১লা ডিসেম্বর (সকাল ৮ টা - দুপুর ১ টা)</p>
                 </div>
                 <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
                     <p class="text-slate-400">অন্যান্য জেলা পর্বের কুইজ (গাজীপুর ও খুলনা ব্যাতিত)</p>
-                    <p class="font-semibold">২০ অক্টোবর (সকাল ৯ টা - দুপুর ১ টা)</p>
+                    <p class="font-semibold">৮ই ডিসেম্বর (সকাল ৮ টা - দুপুর ১ টা)</p>
                 </div>
                 <!-- Registration Today CTA -->
                 <div class="flex justify-center mt-8">
@@ -84,7 +88,7 @@
                 <div class="flex flex-col justify-center">
                     <h1 class="text-2xl font-semibold text-center sm:text-start">মুজিব অলিম্পিয়াড ২০২৩ সম্পর্কে
                         বিস্তারিত জানতে </h1>
-                    <a href="./mujibOlympiad23.php"
+                    <a href="./mujibOlympiad23.html"
                         class="rounded-md bg-gradient-to-tr mx-auto sm:mx-0 from-violet-700 to-indigo-800 px-4 py-2 text-white text-lg cursor-pointer mt-2 max-w-fit">
                         এখানে ক্লিক করুন
                     </a>
@@ -183,7 +187,7 @@
                 <!-- About us -->
                 <div class="max-w-fit mx-auto mt-12">
                     <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg text-white  block hover:bg-green-700"
-                        href="./about.php">
+                        href="./about.html">
                         বিস্তারিত জানুন
                     </a>
                 </div>

@@ -39,7 +39,7 @@
                     </div>
                     <!-- Social Media Links -->
                     <div class="socialLinks border-t md:border-0 pt-2 mt-4 md:mt-0 text-4xl">
-                        <a href="/">
+                        <a href="https://www.facebook.com/NINISHBANGLADESH" target="_blank">
                             <i class='bx bxl-facebook-circle cursor-pointer'></i>
                         </a>
                     </div>

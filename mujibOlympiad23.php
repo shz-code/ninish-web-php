@@ -46,8 +46,8 @@
             </div>
         </section>
 
-        <!-- Mega Event Section Start -->
-        <section>
+          <!-- Mega Event Section Start -->
+          <section>
             <!-- Mega Event Start -->
             <div class="megaEvent bg-white px-2 py-16">
                 <div class="containerNinish mx-auto">
@@ -105,8 +105,7 @@
                                         <h3 class="font-semibold text-lg">অনলাইনে পরীক্ষা</h3>
                                         <p>
                                             রেজিস্ট্রেশনকৃত শিক্ষার্থীরা নির্ধারিত দিনে আমাদের ওয়েবসাইটে <b>'বঙ্গবন্ধু,
-                                                মুক্তিযুদ্ধ ও স্মার্ট বাংলাদেশ'</b> - বিষয়ের উপর MCQ পরীক্ষায় অংশগ্রহন
-                                            করবে
+                                               মুক্তিযুদ্ধ ও স্মার্ট বাংলাদেশ'</b> - বিষয়ের উপর MCQ পরীক্ষায় অংশগ্রহন করবে
                                         </p>
                                     </div>
                                 </div>
@@ -131,7 +130,7 @@
                                 <!-- Event Info Card End -->
                                 <div class="max-w-fit mt-4 mx-auto">
                                     <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                                        href="https://account.ninish.com">
+                                    href="https://account.ninish.com">
                                         রেজিস্ট্রেশন করুন
                                     </a>
                                 </div>
@@ -167,15 +166,15 @@
                             সার্টিফিকেট অফ পার্টিসিপেশন
                         </li>
                         <li>
-                            <span class="text-amber-600"><i class='bx bx-money'></i></span>
+                            <span class="text-amber-600"><i class='bx bx-money' ></i></span>
                             বৃত্তির জন্য আবেদনের সুযোগ
                         </li>
                         <li>
-                            <span class="text-amber-600"><i class='bx bx-money'></i></span>
+                            <span class="text-amber-600"><i class='bx bx-money' ></i></span>
                             প্রতি শিক্ষা প্রতিষ্ঠান থেকে ৫ জনকে বাৎসরিক বৃত্তি (২০২৪) প্রদান
                         </li>
                         <li>
-                            <span class="text-amber-600"><i class='bx bx-note'></i></span>
+                            <span class="text-amber-600"><i class='bx bx-note' ></i></span>
                             নিণীষ-এর পেইড কোর্স গুলো বিনামূল্যে করার সুযোগ
                         </li>
                     </ul>
@@ -192,7 +191,7 @@
                         <!-- Gift Details -->
                         <div class="grid mt-4 gap-2 text-start text-xl">
                             <p>
-                                <span class="text-amber-600"><i class='bx bx-lock-open'></i></span>
+                                <span class="text-amber-600"><i class='bx bx-lock-open' ></i></span>
                                 জাতীয় পর্যায়ে অংশগ্রহনের সুযোগ
                             </p>
                             <p>
@@ -200,7 +199,7 @@
                                 সার্টিফিকেট অফ এপ্রেসিয়েশন
                             </p>
                             <p>
-                                <span class="text-amber-600"><i class='bx bxs-diamond'></i></span>
+                                <span class="text-amber-600"><i class='bx bxs-diamond' ></i></span>
                                 ক্রেস্ট
                             </p>
                             <p>
@@ -212,7 +211,7 @@
                                 টি-শার্ট
                             </p>
                             <p>
-                                <span class="text-amber-600"><i class='bx bx-lock-open-alt'></i></span>
+                                <span class="text-amber-600"><i class='bx bx-lock-open-alt' ></i></span>
                                 টিকিট টু ফাইনাল
                             </p>
                             <p>
@@ -246,7 +245,7 @@
                                 টি-শার্ট
                             </p>
                             <p>
-                                <span class="text-amber-600"><i class='bx bx-droplet'></i></span>
+                                <span class="text-amber-600"><i class='bx bx-droplet' ></i></span>
                                 নিণীষ ম্যাগাজিন সহ সকল জাতীয় প্রিন্টমিডিয়াতে ফিচার
                             </p>
                             <p>
@@ -258,7 +257,7 @@
                                 নিণীষ এর সব ধরনের শিক্ষা উপকরন সম্পূর্ন বিনামুল্যে পাবার সুযোগ
                             </p>
                             <p>
-                                <span class="text-amber-600"><i class='bx bx-money'></i></span>
+                                <span class="text-amber-600"><i class='bx bx-money' ></i></span>
                                 সর্বমোট <b class="text-2xl">৯,০০,০০০/=(নয় লক্ষ টাকা)</b> নগদ অর্থ পুরষ্কার
                             </p>
                         </div>
@@ -268,7 +267,7 @@
             <!-- CTA-->
             <div class="max-w-fit mt-4 mx-auto">
                 <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                    href="https://account.ninish.com">
+                href="https://account.ninish.com">
                     রেজিস্ট্রেশন করুন
                 </a>
             </div>
@@ -284,8 +283,7 @@
                         <p class="text-2xl text-center text-white mb-4">বিভিন্ন ক্যাটাগরি</p>
                         <div class="grid grid-cols-1 w-full sm:grid-cols-2 justify-center gap-4 text-xl">
                             <!-- Primary -->
-                            <div
-                                class="w-full flex flex-col lg:flex-row gap-4 bg-slate-500 p-4 rounded-xl items-center">
+                            <div class="w-full flex flex-col lg:flex-row gap-4 bg-slate-500 p-4 rounded-xl items-center">
                                 <div
                                     class="bg-gradient-to-tr from-slate-800 to-violet-700 px-5 py-3 text-4xl lg:px-8 lg:py-6 lg:text-6xl rounded-2xl text-white">
                                     ১
@@ -316,18 +314,17 @@
                                 </div>
                                 <p>উচ্চ মাধ্যমিক(১১শ ও ১২শ)</p>
                             </div>
-                        </div>
+                        </div> 
                         <div class="w-full">
                             <!-- University-->
-                            <div
-                                class="w-full sm:w-1/2 mt-4 mx-auto flex flex-col lg:flex-row gap-4 bg-slate-500 p-4 rounded-xl items-center">
+                            <div class="w-full sm:w-1/2 mt-4 mx-auto flex flex-col lg:flex-row gap-4 bg-slate-500 p-4 rounded-xl items-center">
                                 <div
-                                    class="bg-gradient-to-tr from-slate-800 to-violet-700 px-5 py-3 text-4xl lg:px-8 lg:py-6 lg:text-6xl rounded-2xl text-white">
-                                    ৫
-                                </div>
-                                <p class="text-xl">বিশ্ববিদ্যালয়</p>
+                                class="bg-gradient-to-tr from-slate-800 to-violet-700 px-5 py-3 text-4xl lg:px-8 lg:py-6 lg:text-6xl rounded-2xl text-white">
+                                ৫
                             </div>
+                            <p  class="text-xl">বিশ্ববিদ্যালয়</p>
                         </div>
+                    </div>
                     </div>
                 </div>
                 <!-- Prize Distribution Statistics -->
@@ -348,10 +345,10 @@
                         <span class="text-slate-700 font-semibold">*প্রতি ক্যাটাগরি</span>
                     </div>
                 </div>
-                <!-- CTA-->
-                <div class="max-w-fit mt-8 mx-auto">
+                 <!-- CTA-->
+                 <div class="max-w-fit mt-8 mx-auto">
                     <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                        href="https://account.ninish.com">
+                    href="https://account.ninish.com">
                         রেজিস্ট্রেশন করুন
                     </a>
                 </div>
@@ -371,8 +368,8 @@
                 <h1 class="text-4xl sm:text-5xl font-semibold mt-2">অনলাইন পরীক্ষা এর তথ্য ও বিষয়সমূহ</h1>
             </div>
             <!-- Section Title End -->
-           <!-- MCQ Details -->
-           <div class="pt-8 pb-4">
+            <!-- MCQ Details -->
+            <div class="pt-8 pb-4">
                 <div class="grid grid-cols-1 gap-4">
                     <div class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-sky-700 to-indigo-800">
                         <h3 class="text-3xl mb-4 font-semibold flex justify-between">নিয়মাবলী <span class="text-3xl"><i
@@ -454,11 +451,11 @@
                         class="bg-gradient-to-tr text-white from-purple-950 to-violet-800 rounded-md px-4 md:px-12 py-6 md:py-10 w-full">
                         <h3 class="text-3xl mb-4 font-semibold">পরীক্ষা তারিখ </h3>
                         <div class="grid gap-4 border-t py-4 text-lg">
-                            <h1 class="text-3xl sm:text-4xl text-slate-400">১৩ অক্টোবর (সকাল ৯ টা - দুপুর ১ টা)</h1>
+                            <h1 class="text-3xl sm:text-4xl text-slate-400">১লা ডিসেম্বর (সকাল ৮ টা - দুপুর ১ টা)</h1>
                             <h4 class="text-2xl">
                                 মুজিব অলিম্পিয়াড ২০২৩ - ঢাকা জেলা পর্ব
                             </h4>
-                            <h1 class="text-4xl text-slate-400">২০ অক্টোবর (সকাল ৯ টা - দুপুর ১ টা)</h1>
+                            <h1 class="text-3xl sm:text-4xl text-slate-400">৮ই ডিসেম্বর  (সকাল ৮ টা - দুপুর ১ টা)</h1>
                             <h4 class="text-2xl">
                                 মুজিব অলিম্পিয়াড ২০২৩ - অন্যান্য জেলা (গাজীপুর ও খুলনা ব্যাতিত)
                             </h4>
@@ -475,11 +472,9 @@
             </div>
             <!-- National Segment Details -->
             <div>
-                <div
-                    class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-green-700 to-cyan-800">
+                <div class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-green-700 to-cyan-800">
                     <h3 class="text-3xl mb-4 font-semibold flex justify-between">মুজিব অলিম্পিয়াড ২০২৩ - জাতীয় পর্ব
-                        <span class="text-3xl"><i class='bx bx-book-open'></i></span>
-                    </h3>
+                        <span class="text-3xl"><i class='bx bx-book-open'></i></span></h3>
                     <div class="border-t">
                         <p class="text-lg pt-6 font-semibold">সকল বিভাগের বিজয়ীদের নিয়ে অনুষ্ঠিত হবে <span>মুজিব
                                 অলিম্পিয়াড-জাতীয় পর্ব</span></p>
