@@ -16,7 +16,7 @@
                 <span class="text-lg md:text-3xl flex">
                     <i class='bx bx-phone'></i>
                 </span>
-                01793000873
+                01784129993
             </a>
         </div>
     </div>

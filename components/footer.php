@@ -30,8 +30,8 @@
                 <h5 class="text-lg font-bold">আমাদের যোগাযোগ মাধ্যম</h5>
                 <div class="text-center md:text-start mt-2">
                     <div>
-                        <p>কল করুন: <a href="tel:01793000873" class="contactInfo">01793000873</a>,
-                            <a href="tel:01330370570" class="contactInfo">01330370570</a>,
+                        <p>কল করুন: <a href="tel:01644042241" class="contactInfo">01644042241</a>,
+                            <a href="tel:01722842564" class="contactInfo">01722842564</a>,
                             <a href="tel:01952863855" class="contactInfo">01952863855</a>
                         </p>
 

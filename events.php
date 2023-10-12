@@ -33,7 +33,7 @@
                     <h1 class="text-4xl sm:text-5xl text-center font-semibold">মুজিব অলিম্পিয়াড ২০২৩</h1>
                     <p class="text-slate-400 text-center">শেকড়কে চেনো | মুজিবকে জানো</p>
                     <div class="lg:flex justify-center items-center gap-10 mt-10">
-                        <img class="py-6 max-w-lg w-full lg:h-96 mx-auto lg:mx-0" src="./assets/images/mujib.png"
+                        <img class="py-6 max-w-lg w-full mx-auto lg:mx-0" src="./assets/images/mujib.png"
                             alt="Mujib Olympiad Logo">
                         <!-- Event Cards Container -->
                         <div class="max-w-lg w-full mx-auto lg:mx-0 mt-4 lg:mt-0">
