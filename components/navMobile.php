@@ -15,6 +15,12 @@
                     </a>
                 </li>
                 <li class="nestedNavLink">
+                    <a class="rounded-md" href="./engQuizFest24.php">
+                        <img src="./assets/images/e-logo.png" alt="English Quiz Fest 2024 Logo">
+                        <span> English Quiz Fest 2024 </span>
+                    </a>
+                </li>
+                <li class="nestedNavLink">
                     <a href="./mujibOlympiad23.php">
                         <img src="./assets/images/mujib.png" alt="Mujib Olympiad 2023 Logo">
                         <span> মুজিব অলিম্পিয়াড ২০২৩ </span>

@@ -182,3 +182,22 @@ nav a:hover, nav .eventNavLinkMobile:hover {
 .socialLinks i:hover {
   color: var(--primary-color);
 }/*# sourceMappingURL=style.css.map */
+.background-animate {
+    background-size: 250%;
+
+    -webkit-animation: AnimationName 3s ease infinite;
+    -moz-animation: AnimationName 3s ease infinite;
+    animation: AnimationName 3s ease infinite;
+}
+
+@keyframes AnimationName {
+
+    0%,
+    100% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+}

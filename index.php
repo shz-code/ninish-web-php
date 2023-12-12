@@ -14,53 +14,61 @@
     <!-- Main Body Start -->
     <main class="pt-10">
         <!-- Announcement -->
-        <section class="bg-red-600 containerNinish mx-auto p-4 mt-10 rounded-md mb-4 text-center">
+        <!-- <section class="bg-red-600 containerNinish mx-auto p-4 mt-10 rounded-md mb-4 text-center">
             <p class="text-white text-xl">অনিবার্য কারণবশত মুজিব অলিম্পিয়াড ২০২৩ - ঢাকা জেলা পর্বের ১৩ই অক্টোবর এর অনলাইন কুইজ পরীক্ষা আগামী ১লা ডিসেম্বর শুক্রবার এবং অন্যান্য জেলা পর্বের কুইজ আগামী ৮ই ডিসেম্বর (সকাল ৮.০০ থেকে দুপুর ১.০০ টার ভিতর যেকোন সময় দেওয়া যাবে) অনুষ্ঠিত হবে।</p>
-        </section>
-        <!-- Banner Section Start -->
-        <section class="py-16  text-white bg-gradient-to-tr from-slate-950 to-violet-900">
+        </section> -->
+          <!-- Banner Section Start -->
+          <section class="py-16  text-white bg-gradient-to-tr from-blue-950 via-fuchsia-950 to-slate-950">
 
-            <div class="banner flex flex-col items-center justify-center py-8 px-2">
-                <h1 class="text-4xl sm:text-5xl text-center font-semibold"> মুজিব অলিম্পিয়াড ২০২৩ </h1>
-                <img class="py-6 w-3/4 sm:w-1/3 xl:w-1/4" src="./assets/images/mujib.png" alt="Mujib Olympiad Logo">
-                <p class="text-slate-400">শেকড়কে চেনো | মুজিবকে জানো</p>
-                <div class="text-2xl sm:text-4xl text-center mt-4 grid gap-4">
-                    <p>বাংলাদেশের সর্ববৃহৎ মুজিব উৎসবে অংশ নিয়ে হয়ে উঠুন দেশ সেরা</p>
-                    <p
-                        class="bannerMoney bg-gradient-to-tr from-amber-800 to-amber-200 text-black py-4 md:py-10 rounded-md shadow my-8 flex flex-col md:flex-row gap-4 md:gap-8 justify-center items-center">
-                        <span>
-                            <img class="w-24" src="./assets/images/money.png" alt="Money Icon">
-                        </span>
-                        জিতে নিন মোট
-                        <span class="text-4xl sm:text-5xl font-semibold">৯ লক্ষ</span>
-                        টাকা
-                    </p>
-                </div>
-                <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
-                    <p class="text-slate-400">ঢাকা জেলা পর্বের কুইজ</p>
-                    <p class="font-semibold">১লা ডিসেম্বর (সকাল ৮ টা - দুপুর ১ টা)</p>
-                </div>
-                <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
-                    <p class="text-slate-400">অন্যান্য জেলা পর্বের কুইজ (গাজীপুর ও খুলনা ব্যাতিত)</p>
-                    <p class="font-semibold">৮ই ডিসেম্বর (সকাল ৮ টা - দুপুর ১ টা)</p>
-                </div>
-                <!-- Registration Today CTA -->
-                <div class="flex justify-center mt-8">
-                    <a href="https://account.ninish.com"
-                        class="rounded-md bg-gradient-to-tr text-center from-violet-700 to-indigo-800 px-4 py-4 text-white text-4xl cursor-pointer">
-                        রেজিস্ট্রেশন সম্পন্ন করুন
-                    </a>
-                </div>
-            </div>
+<div class="banner flex flex-col items-center justify-center py-8 px-2">
+    <!-- <h1 class="text-4xl sm:text-5xl text-center font-semibold"> English Quiz Fest 2024 </h1> -->
+    <img class="py-12 w-full sm:w-3/4 xl:w-1/3" src="./assets/images/e-logo.png" alt="English Quiz Fest 2024 Logo">
+    <!-- <p class="text-slate-400">শেকড়কে চেনো | মুজিবকে জানো</p> -->
+    <div class="text-2xl sm:text-4xl text-center mt-4 grid gap-4 max-w-4xl w-full">
+        <p class="w-full">ইংলিশ ভীতি দূর করে হয়ে উঠুন দেশ সেরা</p>
+        <p
+            class="bannerMoney bg-gradient-to-tr from-amber-800 via-amber-200 to-amber-500 text-black py-4 md:py-10 rounded-md shadow my-8 flex flex-col md:flex-row gap-4 md:gap-8 justify-center items-center">
+            <span>
+                <img class="w-24" src="./assets/images/money.png" alt="Money Icon">
+            </span>
+            জিতে নিন মোট
+            <span class="text-4xl sm:text-5xl font-semibold">৪ লক্ষ</span>
+            টাকা
+        </p>
+    </div>
+    <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
+        <p class="text-slate-400">রাজশাহী এবং রংপুর বিভাগের অন্তর্ভুক্ত জেলা সমূহ</p>
+        <p class="font-semibold">২রা ফেব্রুয়ারি</p>
+    </div>
+    <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
+        <p class="text-slate-400">ময়মনসিংহ এবং বরিশাল বিভাগের অন্তর্ভুক্ত জেলা সমূহ</p>
+        <p class="font-semibold">৯ই ফেব্রুয়ারি</p>
+    </div>
+    <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
+        <p class="text-slate-400">সিলেট এবং চট্টগ্রাম বিভাগের অন্তর্ভুক্ত জেলা সমূহ</p>
+        <p class="font-semibold">১৬ই ফেব্রুয়ারি</p>
+    </div>
+    <div class="text-xl sm:text-3xl text-center mt-4 grid gap-4">
+        <p class="text-slate-400"> ঢাকা এবং খুলনা বিভাগের অন্তর্ভুক্ত জেলা সমূহ</p>
+        <p class="font-semibold">২৩ই ফেব্রুয়ারি</p>
+    </div>
+    <!-- Registration Today CTA -->
+    <div class="flex justify-center mt-8">
+        <a href="https://account.ninish.com"
+            class="rounded-md bg-gradient-to-tr  from-violet-700 to-indigo-800 px-4 py-4 text-white text-4xl cursor-pointer">
+            রেজিস্ট্রেশন সম্পন্ন করুন
+        </a>
+    </div>
+</div>
 
-        </section>
-        <!-- Banner Section End -->
+</section>
+<!-- Banner Section End -->
 
         <!-- Statistics and Registration CTA -->
-        <section class="bg-white">
-            <div class="containerNinish mx-auto px-2">
+        <!-- <section class="bg-white">
+            <div class="containerNinish mx-auto px-2"> -->
                 <!-- Mujib Olympiad Statistics -->
-                <div class=" text-black grid grid-cols-1 sm:grid-cols-3 gap-4 py-4">
+                <!-- <div class=" text-black grid grid-cols-1 sm:grid-cols-3 gap-4 py-4">
                     <div class="statCard rounded-md bg-violet-200 flex flex-col items-center px-4 py-8">
                         <p class="text-4xl text-center font-semibold">২ লক্ষ+</p>
                         <span class="text-xl text-slate-700 mt-3">মোট শিক্ষার্থী</span>
@@ -76,20 +84,20 @@
                 </div>
             </div>
 
-        </section>
+        </section> -->
 
 
 
-        <!-- Mujib Olympiad Details CTA -->
-        <section class="bg-gradient-to-tr from-slate-950 to-slate-800 py-16">
-            <div class="sm:flex justify-center gap-x-12 text-white py-16">
-                <img class="py-6 w-3/4 sm:w-1/3 xl:w-1/4 mx-auto sm:mx-0" src="./assets/images/mujib.png"
+        <!-- English Fest Details CTA -->
+        <section class="bg-white py-16">
+            <div class="sm:flex justify-center gap-x-12 text-black py-16">
+                <img class="py-6 w-3/4 sm:w-1/3 xl:w-1/4 mx-auto sm:mx-0" src="./assets/images/e-logo.png"
                     alt="Mujib Olympiad Logo">
                 <div class="flex flex-col justify-center">
-                    <h1 class="text-2xl font-semibold text-center sm:text-start">মুজিব অলিম্পিয়াড ২০২৩ সম্পর্কে
+                    <h1 class="text-2xl font-semibold text-center sm:text-start">English Quiz Fest 2024 সম্পর্কে
                         বিস্তারিত জানতে </h1>
-                    <a href="./mujibOlympiad23.php"
-                        class="rounded-md bg-gradient-to-tr mx-auto sm:mx-0 from-violet-700 to-indigo-800 px-4 py-2 text-white text-lg cursor-pointer mt-2 max-w-fit">
+                    <a href="./engQuizFest24.php"
+                        class="rounded-md bg-gradient-to-tr mx-auto sm:mx-0 from-blue-950 to-fuchsia-800 px-4 py-2 text-white text-lg cursor-pointer mt-2 max-w-fit">
                         এখানে ক্লিক করুন
                     </a>
                 </div>

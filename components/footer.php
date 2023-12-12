@@ -31,8 +31,7 @@
                 <div class="text-center md:text-start mt-2">
                     <div>
                         <p>কল করুন: <a href="tel:01644042241" class="contactInfo">01644042241</a>,
-                            <a href="tel:01722842564" class="contactInfo">01722842564</a>,
-                            <a href="tel:01952863855" class="contactInfo">01952863855</a>
+                            <a href="tel:01722842564" class="contactInfo">01722842564</a>
                         </p>
 
                         <p>ইমেইল করুন: <a href="mailto:info@ninish.com" class="contactInfo">info@ninish.com</a></p>
