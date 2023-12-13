@@ -23,12 +23,6 @@
                 class="singleEventHeader absolute text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center">
                 <h1 class="text-4xl sm:text-5xl font-semibold">মুজিব অলিম্পিয়াড ২০২৩</h1>
                 <p class="text-slate-400 text-lg mt-2">শেকড়কে চেনো | মুজিবকে জানো</p>
-                <div class="max-w-fit mt-4 mx-auto">
-                    <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                        href="https://account.ninish.com">
-                        রেজিস্ট্রেশন করুন
-                    </a>
-                </div>
             </div>
         </section>
 
@@ -133,13 +127,6 @@
                                             এর জন্য নির্বাচিত ঘোষণা করা হবে
                                         </p>
                                     </div>
-                                </div>
-                                <!-- Event Info Card End -->
-                                <div class="max-w-fit mt-4 mx-auto">
-                                    <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                                        href="https://account.ninish.com">
-                                        রেজিস্ট্রেশন করুন
-                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -271,13 +258,6 @@
                     </div>
                 </div>
             </div>
-            <!-- CTA-->
-            <div class="max-w-fit mt-4 mx-auto">
-                <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                    href="https://account.ninish.com">
-                    রেজিস্ট্রেশন করুন
-                </a>
-            </div>
             <!-- Prize Money Distribution -->
             <div class="containerNinish mx-auto px-2 py-4">
                 <h3 class="text-3xl text-center mt-8">নগদ অর্থ বিজয়ীদের মাঝে বণ্টন</h3>
@@ -353,13 +333,6 @@
                         <span class="text-xl text-slate-700 mt-3">তৃতীয় স্থান অধিকারী</span>
                         <span class="text-slate-700 font-semibold">*প্রতি ক্যাটাগরি</span>
                     </div>
-                </div>
-                <!-- CTA-->
-                <div class="max-w-fit mt-8 mx-auto">
-                    <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                        href="https://account.ninish.com">
-                        রেজিস্ট্রেশন করুন
-                    </a>
                 </div>
             </div>
         </section>
@@ -470,13 +443,6 @@
                             <h4 class="text-2xl">
                                 মুজিব অলিম্পিয়াড ২০২৩ - অন্যান্য জেলা (গাজীপুর ও খুলনা ব্যাতিত)
                             </h4>
-                            <p class="pt-4 mt-4 border-t">পরীক্ষায় অংশ গ্রহনের জন্য আজই রেজিস্ট্রেশন করুন</p>
-                            <div class="max-w-fit mt-4">
-                                <a class="rounded-md text-center bg-green-600 px-4 py-3 text-lg  text-white block hover:bg-green-700"
-                                    href="https://account.ninish.com">
-                                    রেজিস্ট্রেশন করুন
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -505,8 +471,6 @@
                 </div>
             </div>
         </section>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/WRqPuOFdVOU?si=EHcuKUP22g6kARoC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         <!-- Gallary Section Start -->
         <section class="containerNinish mx-auto px-2 py-16">

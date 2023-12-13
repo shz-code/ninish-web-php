@@ -134,7 +134,10 @@
             <!-- Section Title End -->
             <div class="pb-10 flex justify-center text-lg">
                 <div class="flex justify-center  align-middle">
-                    <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-10">
+                    <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-10">
+                        <div class="bg-green-900 circ text-white p-5  rounded-full">
+                            <a href="./mujibOlympiad23.php"> মুজিব অলিম্পিয়াড ২০২৩</a>
+                        </div>
                         <div class="bg-green-900 circ text-white p-5  rounded-full">
                             <a href="./mujibOlympiad20.php"> মুজিব অলিম্পিয়াড ২০২০</a>
                         </div>
