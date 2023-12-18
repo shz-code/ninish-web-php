@@ -28,9 +28,9 @@
           <!-- Mega Event Section Start -->
         <section class="py-8">
             <!-- Mega Event Start -->
-            <div class="megaEvent bg-gradient-to-tr from-amber-950 via-fuchsia-950 to-fuchsia-900 px-2 py-16">
+            <div class="megaEvent bg-gradient-to-tr from-green-950 via-blue-950 to-green-900 px-2 py-16">
                 <div class="containerNinish mx-auto">
-                    <h1 class="text-4xl sm:text-5xl text-center font-semibold text-white">ENGLISH QUIZ FEST 2024</h1>
+                    <h1 class="text-4xl sm:text-5xl text-center font-semibold text-white">English Olympiad 2024</h1>
                     <!-- <p class="text-slate-400 text-center">শেকড়কে চেনো | মুজিবকে জানো</p> -->
                     <div class="lg:flex justify-center items-center gap-10 mt-10">
                         <img class="py-6 w-full lg:w-1/2" src="./assets/images/e-logo.png"

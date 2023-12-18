@@ -17,12 +17,12 @@
      <main class="pt-16">
         <section class="my-4 singleEvent containerNinish mx-auto px-2">
             <div>
-                <img class="rounded-lg" src="./assets/images/engQuizFest24/banner.png" alt="ENGLISH QUIZ FEST 2024 Banner">
+                <img class="rounded-lg" src="./assets/images/engQuizFest24/banner.png" alt="English Olympiad 2024 Banner">
             </div>
             <!-- <div
                 class="singleEventHeader absolute text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center">
-                <img src="./assets/images/e-logo.png" alt="English Quiz Fest 2024">
-                <h1 class="text-4xl sm:text-5xl font-semibold mt-12">ENGLISH QUIZ FEST 2024</h1>
+                <img src="./assets/images/e-logo.png" alt="English Olympiad 2024">
+                <h1 class="text-4xl sm:text-5xl font-semibold mt-12">English Olympiad 2024</h1>
                 <p class="text-slate-400 text-lg mt-2">শেকড়কে চেনো | মুজিবকে জানো</p>
             </div> -->
         </section>
@@ -59,7 +59,7 @@
             <!-- Mega Event Start -->
             <div class="megaEvent bg-white px-2 py-16">
                 <div class="containerNinish mx-auto">
-                    <h1 class="text-4xl sm:text-5xl text-center font-semibold">ENGLISH QUIZ FEST 2024</h1>
+                    <h1 class="text-4xl sm:text-5xl text-center font-semibold">English Olympiad 2024</h1>
                     <!-- <p class="text-slate-400 text-center">শেকড়কে চেনো | মুজিবকে জানো</p> -->
                     <div class="lg:flex justify-center items-center gap-10 mt-10">
                         <img class="py-6 w-full lg:w-1/2" src="./assets/images/e-logo.png" alt="Mujib Olympiad Logo">
@@ -150,7 +150,7 @@
         <!-- Mega Event Section End -->
 
         <!-- Gifts Section -->
-        <section class="gifts bg-gradient-to-tr from-blue-950 via-purple-950 to-fuchsia-800 text-white mb-4 py-16 px-2">
+        <section class="gifts bg-gradient-to-tr from-green-950 via-blue-950 to-green-800 text-white mb-4 py-16 px-2">
             <!-- Section Title Start -->
             <div class="text-center pb-4">
                 <p class="flex justify-center items-center gap-1 text-sm font-semibold">
@@ -233,7 +233,7 @@
                         <div class="grid mt-4 gap-2 text-start text-xl">
                             <p>
                                 <span class="text-amber-600"><i class='bx bx-money'></i></span>
-                                সর্বমোট <b class="text-2xl">৪,০০,০০০/=(নয় লক্ষ টাকা)</b> নগদ অর্থ পুরষ্কার
+                                সর্বমোট <b class="text-2xl">৪,০০,০০০/=(চার লক্ষ টাকা)</b> নগদ অর্থ পুরষ্কার
                             </p>
                             <p>
                                 <span class="text-amber-600"><i class='bx bx-certification'></i></span>
@@ -353,7 +353,7 @@
             <div class="pt-8 pb-4">
                 <div class="grid gap-4">
                     <div
-                        class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-blue-950 via-purple-950 to-fuchsia-800 overflow-hidden">
+                        class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-blue-950 via-blue-900 to-blue-700 overflow-hidden">
                         <h3 class="text-3xl mb-4 font-semibold flex justify-between">নিয়মাবলী <span class="text-3xl"><i
                                     class='bx bx-book-open'></i></span></h3>
                         <div class="border-t">
@@ -398,7 +398,7 @@
                                                     </tr>
                                                     <tr>
                                                         <td colspan="4" class="text-center border py-2">
-                                                            <a class="underline" href="./assets/quiz.pdf">English Quiz Fest 2024 এর সিলেবাস ডাউনলোড করুন</a>
+                                                            <a class="underline" href="./assets/quiz.pdf">English Olympiad 2024 এর সিলেবাস ডাউনলোড করুন</a>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -424,7 +424,7 @@
             <div class="pb-4">
                 <div class="grid gap-4">
                     <div
-                        class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr from-blue-950 via-purple-950 to-fuchsia-800 overflow-hidden">
+                        class="px-4 md:px-12 py-6 md:py-10 rounded-md text-white bg-gradient-to-tr  from-blue-950 via-blue-900 to-blue-700 overflow-hidden">
                         <h3 class="text-3xl mb-4 font-semibold flex justify-between">নিয়মাবলী <span class="text-3xl"><i
                                     class='bx bx-book-open'></i></span></h3>
                         <div class="border-t">

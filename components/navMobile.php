@@ -15,9 +15,9 @@
                     </a>
                 </li>
                 <li class="nestedNavLink">
-                    <a class="rounded-md" href="./engQuizFest24.php">
-                        <img src="./assets/images/e-logo.png" alt="English Quiz Fest 2024 Logo">
-                        <span> English Quiz Fest 2024 </span>
+                    <a class="rounded-md" href="./englishOlympiad2024.php">
+                        <img src="./assets/images/e-logo.png" alt="English Olympiad 2024 Logo">
+                        <span> English Olympiad 2024 </span>
                     </a>
                 </li>
                 <li class="nestedNavLink">
